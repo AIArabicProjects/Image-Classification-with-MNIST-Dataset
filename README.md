@@ -10,4 +10,4 @@ This code is originally from https://towardsdatascience.com/image-classification
 يمكن تنفيذ البرنامج على منصة كولاب التشاركية من جوجل
 
 للمزيد من المعلومات يرجى قراءة المقال كاملاً على منصة الذكاء الصناعي باللغة العربية 
-https://www.aiinarabic.com/
+https://aiinarabic.com/image-classification-in-10-minutes-with-mnist-dataset/
